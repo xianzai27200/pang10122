@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning psy
 - 💞️ I’m looking to collaborate on c2c
 - 📫 How to reach me via imessage or wechat or ins or tw
+- GL brodacast
 
 <!---
 pang10122/pang10122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
